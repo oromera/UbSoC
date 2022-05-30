@@ -192,7 +192,7 @@ El resto de pines se deben asignar del siguiente modo:
 
 Quedaran I/Os sin pines asignados debido a que la DE0-nano no tiene ni más botones ni más pulsadores que los asignados. Para otras placas con más recursos hardware, estas I/Os se podrán asignar.
 
-![](ubsoc-debug.png)
+![](ubsoc-debug.svg)
 
 ### Ejecución
 
