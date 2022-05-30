@@ -2,7 +2,7 @@
 UbSoC - Implementación de PicoSoC en una DE0-nano
 ==================================================
 
-![](ubsoc.png)
+![](ubsoc.svg)
 
 Es una modificación y una ampliación del [PicoSoC](https://github.com/YosysHQ/picorv32/tree/master/picosoc) de Claire Wolf
 
